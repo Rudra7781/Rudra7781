@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rudra7781
 - 👀 I’m interested in Coding and Finance
-- ♟️ I’m currently learning Chess AI
+- ♟️ I’m currently learning Security
 - 💞️ I’m looking to collaborate on Web dev
 - 📫 How to reach me email: patelrudra2306@gmail.com
 
